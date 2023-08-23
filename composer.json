@@ -48,7 +48,7 @@
         "mews/purifier": "^3.2",
         "midtrans/midtrans-php": "^2.4",
         "mollie/laravel-mollie": "^2.0",
-        "mtownsend/read-time": "^1.1",
+        "mtownsend/read-time": "^2.0",
         "nwidart/laravel-modules": "^8.3",
         "obydul/laraskrill": "^1.1",
         "omise/omise-php": "^2.12",
